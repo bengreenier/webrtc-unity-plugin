@@ -7,6 +7,8 @@ namespace UnityWebrtc.Marshalling
     // FramePacket のキュー。
     // 指定サイズ以上Pushすると、指定サイズ以下になるよう末尾のデータから削除される。
     // スレッドセーフ。
+    ///
+    /// Based on https://unitylist.com/p/cxl/Web-Rtc-Unity-Plugin-Sample
     public class FrameQueue
     {
         public int Count

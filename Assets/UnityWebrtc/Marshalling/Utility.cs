@@ -5,6 +5,8 @@ using System.Text;
 
 namespace DequeUtility
 {
+    ///
+    /// Based on https://unitylist.com/p/cxl/Web-Rtc-Unity-Plugin-Sample
     internal class Utility
     {
         public static int ClosestPowerOfTwoGreaterThan(int x)

@@ -12,6 +12,8 @@ namespace System.Collections.Generic
     /// an O(1) AddFront, AddBack, RemoveFront, RemoveBack.
     /// The Deque also has O(1) indexed lookup, as it is backed
     /// by a circular array.
+    ///
+    /// Based on https://unitylist.com/p/cxl/Web-Rtc-Unity-Plugin-Sample
     /// </summary>
     /// <typeparam name="T">
     /// The type of objects to store in the deque.

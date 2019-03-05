@@ -4,6 +4,8 @@ using UnityEngine;
 
 namespace UnityWebrtc.Marshalling
 {
+    ///
+    /// Based on https://unitylist.com/p/cxl/Web-Rtc-Unity-Plugin-Sample
     public class FramePacket
     {
         public FramePacket(int bufsize)

@@ -6,6 +6,8 @@ namespace UnityWebrtc.Marshalling
 {
     // 返却されたバッファをできるだけ再利用するバッファプール。
     // スレッドセーフ。
+    ///
+    /// Based on https://unitylist.com/p/cxl/Web-Rtc-Unity-Plugin-Sample
     public class FramePacketPool
     {
         private Deque<FramePacket> pool = new Deque<FramePacket>();

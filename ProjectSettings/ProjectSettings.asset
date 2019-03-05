@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: WebRTCSample
+  productName: WebrtcUnityPlugin
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -153,7 +153,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.hammmm.WebRtcDllSample
+    Android: com.defaultcompany.WebrtcUnityPlugin
   buildNumber: {}
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 24
@@ -522,16 +522,16 @@ PlayerSettings:
     Standalone: 6
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: NewAndroidUnityProject
+  metroPackageName: WebrtcUnityPlugin
   metroPackageVersion: 1.0.0.0
   metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
   metroCertificateNotAfter: 008f64b59be3d501
-  metroApplicationDescription: NewAndroidUnityProject
+  metroApplicationDescription: WebrtcUnityPlugin
   wsaImages: {}
-  metroTileShortName: WebRTCSample
+  metroTileShortName: WebrtcUnityPlugin
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
