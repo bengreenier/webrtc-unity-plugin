@@ -46,6 +46,8 @@ At this point, sdp messages (handshake data) and ice candidates (NAT traversal d
 
 To better understand the API space of this solution, take a look at [the hosted API docs](https://bengreenier.github.io/webrtc-unity-plugin).
 
+For more information, check out [the brief overview video](https://youtu.be/n3eefDynisk).
+
 ### Running
 
 In editor, `Win32` is supported - this means if you're on Windows and you hit "Play" in the Unity Editor, your application should just work. For other platforms, one must produce a Unity Player build in order to fully test.
