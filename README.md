@@ -8,7 +8,7 @@ Cross-platform Webrtc support for Unity apps ☁🎲
 
 ## Why
 
-We needed a cross-platform webrtc solution for Unity, based on [webrtc's unityplugin example](https://webrtc.googlesource.com/src/+/refs/heads/master/examples/unityplugin/) that supports `win32`, `winuwp`, and `android` (theoretically linux and mac are supported as well, but untested). The ✨ magic ✨ of this repository is threefold:
+We needed a cross-platform webrtc solution for Unity, based on [webrtc's unityplugin example](https://webrtc.googlesource.com/src/+/refs/heads/master/examples/unityplugin/) that supports `win32`, and `winuwp` (theoretically linux and mac are supported as well, but untested). The ✨ magic ✨ of this repository is threefold:
 
 1) We support a [winuwp](https://github.com/webrtc-uwp) (hololens compatible) binary
 2) We include a [sample signalling](https://github.com/bengreenier/node-dss) implementation
