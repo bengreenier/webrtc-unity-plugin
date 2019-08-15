@@ -1,6 +1,6 @@
 # Webrtc Unity Plugin
 
-> Work in progress (Alpha Status)
+> 🚨 You probably want [Microsoft/MixedReality-WebRTC](https://github.com/microsoft/MixedReality-WebRTC) instead! 🚨
 
 ![plugin logo](./.github/logo.png)
 
